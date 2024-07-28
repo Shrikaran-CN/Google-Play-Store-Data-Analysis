@@ -1,1 +1,2 @@
+## Google Play Store Data Analysis
 This project involves analyzing Google Play Store data using pandas for comprehensive data cleaning and descriptive analysis. The data cleaning process includes handling null values through imputation, removing duplicates, and formatting columns to ensure consistency and accuracy. The descriptive analysis provides insights into the dataset's key attributes, helping to understand patterns and trends within the Google Play Store.
